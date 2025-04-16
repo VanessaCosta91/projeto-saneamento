@@ -103,7 +103,7 @@ Os dados demonstram a **urgência de políticas públicas que ampliem o acesso a
 
 ---
 
-## 👩‍💻 Autora
+## Autora
 
 **Vanessa Costa**  
 Projeto desenvolvido como parte da Formação de Analista de Dados da EBAC | Abril de 2025
