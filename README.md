@@ -1,5 +1,4 @@
-# projeto-saneamento
-Projeto Análise Saneamento Básico no Brasil
+# Projeto de Análise de Saneamento Básico no Brasil
 
 ## Objetivo
 
