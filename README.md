@@ -21,7 +21,7 @@ Analisar a situação do saneamento básico no Brasil entre 2012 e 2021, com foc
 
 ## Documentação Completa
 
-Para mais detalhes, consulte: [documentacao_completa.md](\.documentacao_completa.md).
+Para mais detalhes, consulte: [documentacao_completa.md](./documentacao_completa.md).
 
 
 ## Autora
